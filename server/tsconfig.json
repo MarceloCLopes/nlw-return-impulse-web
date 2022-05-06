@@ -97,5 +97,6 @@
     /* Completeness */
     // "skipDefaultLibCheck": true,
     "skipLibCheck": true
-  }
+  },
+  "include": ["src"]
 }
